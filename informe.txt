@@ -1,1 +1,0 @@
-En la clase pasada se repasaron los conceptos basicos de Git y sus comandos
