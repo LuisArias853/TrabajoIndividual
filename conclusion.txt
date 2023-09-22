@@ -1,0 +1,1 @@
+Es util tener conocimientos de git dado a que permite guardar trabajos y proyectos así como cosultarlos, editarlos y guardarlos de forma practica
